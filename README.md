@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @curtis-marten
 - 📟 Embedded software developer
 - 🤯 Novice VIM user
-- 🥏 Disc sport fan
+- 🥏 Throws discs
 
 <!---
 curtis-marten/curtis-marten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
